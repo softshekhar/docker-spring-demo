@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api/hello")
 
 public class HelloController {
-    private static final String RESPONSE_STRING_FORMAT = "Hello is7 from '%s': %d\n";
+    private static final String RESPONSE_STRING_FORMAT = "Hello is8 from '%s': %d\n";
     /**
      * Counter to help us see the lifecycle
      */
